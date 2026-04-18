@@ -1,0 +1,6 @@
+[submodule "performance-scan-backend"]
+	path = performance-scan-backend
+	url = https://github.com/huynq-fouj/performance-scan-backend
+[submodule "performance-scan-frontend"]
+	path = performance-scan-frontend
+	url = https://github.com/huynq-fouj/performance-scan-frontend
